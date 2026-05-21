@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,50:121D3A,100:1F6FEB&text=PHAM%20DUY%20KHANH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fresher%20Java%20Backend%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,50:121D3A,100:1F6FEB&text=PHAM%20DUY%20KHANH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Frontend%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer;Spring+Boot+Learner;Building+Projects+Everyday;Software+Engineering+Student;Arduino+%26+IoT+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Java+Frontend+Developer;Spring+Boot+Learner;Building+Projects+Everyday;Software+Engineering+Student;Arduino+%26+IoT+Developer"/>
 
 <br><br>
 
@@ -35,12 +35,12 @@
 ```yaml
 Name: Pham Duy Khanh
 
-Role: Fresher Java Backend Developer
+Role: Fresher Java Frontend Developer
 
 Education: FPT University Student
 
 Focus:
-  - Backend Development
+  - Frontend Development
   - Java Core
   - Spring Boot
   - REST APIs
@@ -51,6 +51,7 @@ Learning:
   - Docker
   - Database Optimization
   - Clean Architecture
+  - React
 
 Hobbies:
   - Coding
@@ -76,9 +77,9 @@ Hobbies:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyanPham02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanPham02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -86,7 +87,7 @@ Hobbies:
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=RyanPham02&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -148,7 +149,7 @@ Console-based Java application using OOP and Collections Framework.
 
 <div align="center">
 
-| Backend | Database | Tools | Others |
+| Frontend | Database | Tools | Others |
 |---|---|---|---|
 | Java | MySQL | Git | OOP |
 | Spring Boot | SQL Server | GitHub | REST APIs |
@@ -170,7 +171,7 @@ Console-based Java application using OOP and Collections Framework.
 
 # 🎯 2026 Goals
 
-- ✅ Become a professional Backend Developer
+- ✅ Become a professional Frontend Developer
 - ✅ Master Spring Boot
 - ✅ Build scalable REST APIs
 - ✅ Learn Docker & Deployment
